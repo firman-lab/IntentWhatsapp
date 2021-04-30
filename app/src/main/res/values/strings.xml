@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Deep Link WA</string>
+    <string name="without_saving">Without Saving.</string>
+    <string name="connecting">Connecting</string>
+</resources>
